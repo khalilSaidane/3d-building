@@ -14,7 +14,7 @@ You can download the repository and run.
 ```
 php -S 127.0.0.1:8080
 ```
-also you can use this docker cammand
+also you can use this ***docker*** cammand
 
 ```
  docker run -p 80:80 --name 3dbuilding  khalilsaidane/buildcode
