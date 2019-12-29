@@ -1,0 +1,22 @@
+{
+  "name": "browsefy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "humanize-plus": "^1.8.2",
+    "jquery": "^3.4.1",
+    "lodash": "^4.17.15",
+    "three": "^0.112.0",
+    "three-controls": "^1.0.1",
+    "three-orbitcontrols": "^2.110.3",
+    "three-stl-loader": "^1.0.6",
+    "threex-domevents": "^1.0.0",
+    "threex.domevents": "^1.0.1"
+  }
+}

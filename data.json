@@ -1,0 +1,1071 @@
+{
+	"ceilings": [
+		{
+
+		}
+	],
+	"curtainSystems": [
+		{
+
+		}
+	],
+	"curtainWallMullions": [
+		{
+
+		}
+	],
+	"detailItems": [
+		{
+
+		}
+	],
+	"doors": [{
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 478668,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 512485,
+		"cost_so_far": "100"
+			}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 613734,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 614693,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 615065,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 615981,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 616783,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 630959,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 632582,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 646852,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 647657,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 647677,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 649766,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 650617,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 671219,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 674311,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 675246,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 675499,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 675936,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 679381,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 685034,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 722114,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 722116,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 722118,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 730640,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 731226,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 772400,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 853137,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 853966,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Door",
+		"completeness": "100 %",
+		"id": 857903,
+		"cost_so_far": "100"
+		}
+	],
+	"floors": [
+		{
+
+		}
+	],
+	"genericModels": [
+		{
+
+		}
+	],
+	"modelText": [
+		{
+
+		}
+	],
+	"railings": [
+		{
+
+		}
+	],
+	"ramps": [
+		{
+
+		}
+	],
+	"roofs": [
+		{
+
+		}
+	],
+	"site": [
+		{
+
+		}
+	],
+	"stairs": [{
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Stairs",
+		"completeness": "100 %",
+		"id": 583869,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Stairs",
+		"completeness": "100 %",
+		"id": 677753,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Stairs",
+		"completeness": "100 %",
+		"id": 519129,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Stairs",
+		"completeness": "100 %",
+		"id": 470556,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Stairs",
+		"completeness": "100 %",
+		"id": 768558,
+		"cost_so_far": "100"
+		}
+	],
+	"structuralColumns": [
+		{
+
+		}
+	],
+	"structuralFoundations": [{
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Pad",
+		"completeness": "100 %",
+		"id": 591837,
+		"cost_so_far": "100"
+		}, {
+		"area": 1,
+		"volume": 1,
+		"length": 1,
+		"name": "Pad",
+		"completeness": "100 %",
+		"id": 592073,
+		"cost_so_far": "100"
+		}
+	],
+	"structuralFraming": [
+		{
+
+		}
+	],
+	"windows": [
+		{
+
+		}
+	],
+	"walls": [{
+		"area": 544.9679795193864,
+		"volume": 858.21314400157837,
+		"length": 57.463910761154629,
+		"name": "(21) 480 mm",
+		"completeness": "100 %",
+		"id": 444214,
+		"cost_so_far": "25310.46"
+	}, {
+		"area": 387.18276603219709,
+		"volume": 609.73663942078338,
+		"length": 40.049212598425029,
+		"name": "(21) 480 mm",
+		"completeness": "91.21 %",
+		"id": 444216,
+		"cost_so_far": "1640.43"
+	}, {
+		"area": 374.47743038540767,
+		"volume": 589.7282368274125,
+		"length": 39.46850393700808,
+		"name": "(21) 480 mm",
+		"completeness": "84.94 %",
+		"id": 444217,
+		"cost_so_far": "1477.53"
+	}, {
+		"area": 538.78882757763961,
+		"volume": 353.53597610081334,
+		"length": 33.956692913385268,
+		"name": "(21) 300 mm",
+		"completeness": "32.85 %",
+		"id": 444374,
+		"cost_so_far": "4930.29"
+	}, {
+		"area": 405.72489339422992,
+		"volume": 638.93683999091252,
+		"length": 53.083989501312232,
+		"name": "(21) 480 mm",
+		"completeness": "30.04 %",
+		"id": 444821,
+		"cost_so_far": "5660.15"
+	}, {
+		"area": 148.59944760776034,
+		"volume": 58.503719530614269,
+		"length": 17.586712471820874,
+		"name": "(22) 120 mm",
+		"completeness": "20.04 %",
+		"id": 444967,
+		"cost_so_far": "4180.5"
+	}, {
+		"area": 129.50189789267941,
+		"volume": 50.984999170346512,
+		"length": 13.845144356955112,
+		"name": "(22) 120 mm",
+		"completeness": "23.73 %",
+		"id": 445008,
+		"cost_so_far": "4270.82"
+	}, {
+		"area": 195.21320292640101,
+		"volume": 115.28338755496134,
+		"length": 13.877952755905184,
+		"name": "(22) 180 mm",
+		"completeness": "10.79 %",
+		"id": 445208,
+		"cost_so_far": "3962.14"
+	}, {
+		"area": 184.79664389883931,
+		"volume": 72.754584212142163,
+		"length": 19.898293963254179,
+		"name": "(22) 120 mm",
+		"completeness": "3.64 %",
+		"id": 445731,
+		"cost_so_far": "9110.37"
+	}, {
+		"area": 61.39309690379018,
+		"volume": 96.682042368173285,
+		"length": 6.4946523575753687,
+		"name": "(21) 480 mm",
+		"completeness": "80.93 %",
+		"id": 447616,
+		"cost_so_far": "2309.8"
+	}, {
+		"area": 108.7837384008039,
+		"volume": 171.31297385953317,
+		"length": 14.468503937007466,
+		"name": "(21) 480 mm",
+		"completeness": "100 %",
+		"id": 447670,
+		"cost_so_far": "5056.32"
+	}, {
+		"area": 48.795556904466153,
+		"volume": 76.843396699946595,
+		"length": 6.4946523575753687,
+		"name": "(21) 480 mm",
+		"completeness": "11.05 %",
+		"id": 447782,
+		"cost_so_far": "2500.05"
+	}, {
+		"area": 93.288228243121736,
+		"volume": 146.91059565845924,
+		"length": 14.468503937007466,
+		"name": "(21) 480 mm",
+		"completeness": "28.03 %",
+		"id": 447783,
+		"cost_so_far": "1210.46"
+	}, {
+		"area": 307.8537048086676,
+		"volume": 121.20224598766443,
+		"length": 35.874376238138844,
+		"name": "(22) 120 mm",
+		"completeness": "0.57 %",
+		"id": 457705,
+		"cost_so_far": "2240.45"
+	}, {
+		"area": 125.97585611837579,
+		"volume": 49.596793747392027,
+		"length": 13.877952755905218,
+		"name": "(22) 120 mm",
+		"completeness": "9.15 %",
+		"id": 457963,
+		"cost_so_far": "1640.06"
+	}, {
+		"area": 129.50189789267966,
+		"volume": 50.984999170346399,
+		"length": 13.845144356955135,
+		"name": "(22) 120 mm",
+		"completeness": "19.98 %",
+		"id": 459328,
+		"cost_so_far": "3620.06"
+	}, {
+		"area": 17.309659619318872,
+		"volume": 6.8148266217790994,
+		"length": 1.9685039370078741,
+		"name": "(22) 120 mm",
+		"completeness": "50.47 %",
+		"id": 459425,
+		"cost_so_far": "1240.17"
+	}, {
+		"area": 214.06403923918884,
+		"volume": 337.10872321132138,
+		"length": 57.463910761154651,
+		"name": "(21) 480 mm",
+		"completeness": "0.0 %",
+		"id": 460964,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 150.81530163060398,
+		"volume": 237.50441201669875,
+		"length": 39.46850393700808,
+		"name": "(21) 480 mm",
+		"completeness": "0.0 %",
+		"id": 460965,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 189.272600767424,
+		"volume": 298.06708782271483,
+		"length": 53.083989501312402,
+		"name": "(21) 480 mm",
+		"completeness": "4.64 %",
+		"id": 460967,
+		"cost_so_far": "400.79"
+	}, {
+		"area": 53.16510633021116,
+		"volume": 83.724576897970124,
+		"length": 14.468503937007469,
+		"name": "(21) 480 mm",
+		"completeness": "0.0 %",
+		"id": 462648,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 22.013488471422015,
+		"volume": 34.666910978617302,
+		"length": 6.778215223097277,
+		"name": "(21) 480 mm",
+		"completeness": "0.0 %",
+		"id": 462751,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 151.91785372664731,
+		"volume": 55.731799367220667,
+		"length": 19.914270857094021,
+		"name": "(22) 120 mm",
+		"completeness": "22.41 %",
+		"id": 471712,
+		"cost_so_far": "4700.44"
+	}, {
+		"area": 125.97585611837545,
+		"volume": 74.395190621087949,
+		"length": 13.877952755905183,
+		"name": "(22) 180 mm",
+		"completeness": "10.76 %",
+		"id": 476391,
+		"cost_so_far": "2540.19"
+	}, {
+		"area": 556.40089477581512,
+		"volume": 876.22188153671686,
+		"length": 53.083989501312168,
+		"name": "(21) 480 mm",
+		"completeness": "77.45 %",
+		"id": 477277,
+		"cost_so_far": "20010.75"
+	}, {
+		"area": 412.63921712566111,
+		"volume": 649.82553878056876,
+		"length": 57.463910761154629,
+		"name": "(21) 480 mm",
+		"completeness": "40.82 %",
+		"id": 477372,
+		"cost_so_far": "7820.43"
+	}, {
+		"area": 189.2726007674238,
+		"volume": 298.06708782271488,
+		"length": 53.083989501312338,
+		"name": "(21) 480 mm",
+		"completeness": "0.0 %",
+		"id": 477523,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 401.36655167573844,
+		"volume": 632.07330972557259,
+		"length": 53.083989501312168,
+		"name": "(21) 480 mm",
+		"completeness": "36.83 %",
+		"id": 554223,
+		"cost_so_far": "6860.66"
+	}, {
+		"area": 252.98956847913593,
+		"volume": 474.7704500330243,
+		"length": 50.961286089238627,
+		"name": "(12) 450mm",
+		"completeness": "33.7 %",
+		"id": 559663,
+		"cost_so_far": "3560.43"
+	}, {
+		"area": 96.28667302881982,
+		"volume": 154.74191274072987,
+		"length": 19.668207864968078,
+		"name": "(12) 450mm",
+		"completeness": "38.2 %",
+		"id": 559724,
+		"cost_so_far": "1530.77"
+	}, {
+		"area": 20.279207225081123,
+		"volume": 35.972971661602124,
+		"length": 6.3385826771653555,
+		"name": "(12) 450mm",
+		"completeness": "17.69 %",
+		"id": 559769,
+		"cost_so_far": "1510.0"
+	}, {
+		"area": 78.049114431561861,
+		"volume": 146.47012288337714,
+		"length": 14.12729658792648,
+		"name": "(12) 450mm",
+		"completeness": "28.5 %",
+		"id": 559814,
+		"cost_so_far": "9290.99"
+	}, {
+		"area": 55.45364156081623,
+		"volume": 21.832142346778014,
+		"length": 6.069412657024408,
+		"name": "(22) 120 mm",
+		"completeness": "0.0 %",
+		"id": 612901,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 55.70883363988959,
+		"volume": 21.932611669248054,
+		"length": 7.1522309711286098,
+		"name": "(22) 120 mm",
+		"completeness": "2.6 %",
+		"id": 612902,
+		"cost_so_far": "250.02"
+	}, {
+		"area": 55.453641560816578,
+		"volume": 21.832142346778141,
+		"length": 6.0694126570244435,
+		"name": "(22) 120 mm",
+		"completeness": "0.0 %",
+		"id": 612903,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 21.089514401247527,
+		"volume": 8.3029584256881801,
+		"length": 4.7900262467187886,
+		"name": "(22) 120 mm",
+		"completeness": "0.77 %",
+		"id": 612949,
+		"cost_so_far": "1000.23"
+	}, {
+		"area": 17.738924366736935,
+		"volume": 6.9838284908413604,
+		"length": 2.8215223097112752,
+		"name": "(22) 120 mm",
+		"completeness": "0.0 %",
+		"id": 614247,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 216.72472849036626,
+		"volume": 85.324696256049876,
+		"length": 23.166151647437317,
+		"name": "(22) 120 mm",
+		"completeness": "3.97 %",
+		"id": 614579,
+		"cost_so_far": "1100.99"
+	}, {
+		"area": 59.782435537095282,
+		"volume": 23.536391943738252,
+		"length": 6.6437007874017766,
+		"name": "(22) 120 mm",
+		"completeness": "0.38 %",
+		"id": 614687,
+		"cost_so_far": "900.32"
+	}, {
+		"area": 55.708833639891267,
+		"volume": 21.93261166924853,
+		"length": 7.1522309711287777,
+		"name": "(22) 120 mm",
+		"completeness": "2.17 %",
+		"id": 614688,
+		"cost_so_far": "1210.68"
+	}, {
+		"area": 59.782435537095466,
+		"volume": 23.536391943738327,
+		"length": 6.6437007874017979,
+		"name": "(22) 120 mm",
+		"completeness": "0.0 %",
+		"id": 614689,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 21.089514401246909,
+		"volume": 8.3029584256878959,
+		"length": 4.7900262467187282,
+		"name": "(22) 120 mm",
+		"completeness": "1.54 %",
+		"id": 614692,
+		"cost_so_far": "850.45"
+	}, {
+		"area": 44.460181281474036,
+		"volume": 17.504008378533094,
+		"length": 4.7473753280840327,
+		"name": "(22) 120 mm",
+		"completeness": "0.0 %",
+		"id": 614943,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 17.738924366737329,
+		"volume": 6.9838284908414527,
+		"length": 2.8215223097112752,
+		"name": "(22) 120 mm",
+		"completeness": "0.0 %",
+		"id": 614944,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 25.643940176769561,
+		"volume": 10.096039439672994,
+		"length": 2.8215223097112752,
+		"name": "(22) 120 mm",
+		"completeness": "10.92 %",
+		"id": 614963,
+		"cost_so_far": "2630.9"
+	}, {
+		"area": 153.27383043655146,
+		"volume": 60.344027730925532,
+		"length": 15.818897637795455,
+		"name": "(22) 120 mm",
+		"completeness": "9.64 %",
+		"id": 615010,
+		"cost_so_far": "2850.59"
+	}, {
+		"area": 25.643940176770887,
+		"volume": 10.09603943967352,
+		"length": 2.8215223097114537,
+		"name": "(22) 120 mm",
+		"completeness": "0.0 %",
+		"id": 615064,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 147.50394389677857,
+		"volume": 87.10862828549925,
+		"length": 15.818897637795473,
+		"name": "(22) 180 mm",
+		"completeness": "88.93 %",
+		"id": 615182,
+		"cost_so_far": "2430.73"
+	}, {
+		"area": 63.776566826776453,
+		"volume": 25.108884577476779,
+		"length": 7.5118199902639056,
+		"name": "(22) 120 mm",
+		"completeness": "2.3 %",
+		"id": 616772,
+		"cost_so_far": "1120.04"
+	}, {
+		"area": 88.471593609853784,
+		"volume": 34.831336066871508,
+		"length": 8.8582677165354333,
+		"name": "(22) 120 mm",
+		"completeness": "0.0 %",
+		"id": 616773,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 111.90569239889969,
+		"volume": 44.057359212172493,
+		"length": 12.437863467222666,
+		"name": "(22) 120 mm",
+		"completeness": "1.63 %",
+		"id": 616774,
+		"cost_so_far": "890.54"
+	}, {
+		"area": 91.561901711318384,
+		"volume": 36.047992799735766,
+		"length": 12.437863467222648,
+		"name": "(22) 120 mm",
+		"completeness": "3.32 %",
+		"id": 616775,
+		"cost_so_far": "1040.24"
+	}, {
+		"area": 66.777636346807768,
+		"volume": 26.290408010554181,
+		"length": 11.392827168078714,
+		"name": "(22) 120 mm",
+		"completeness": "8.33 %",
+		"id": 616779,
+		"cost_so_far": "1970.75"
+	}, {
+		"area": 250.30101983353836,
+		"volume": 394.1748343835244,
+		"length": 39.46850393700808,
+		"name": "(21) 480 mm",
+		"completeness": "42.37 %",
+		"id": 620267,
+		"cost_so_far": "4920.63"
+	}, {
+		"area": 308.37957509248588,
+		"volume": 552.58701738423872,
+		"length": 38.786089238845435,
+		"name": "(12) 450mm",
+		"completeness": "36.64 %",
+		"id": 620457,
+		"cost_so_far": "4720.37"
+	}, {
+		"area": 48.734573163589097,
+		"volume": 19.186839828179121,
+		"length": 7.5951443569551671,
+		"name": "(22) 120 mm",
+		"completeness": "15.47 %",
+		"id": 632281,
+		"cost_so_far": "3110.51"
+	}, {
+		"area": 49.215397041903785,
+		"volume": 19.376140567678611,
+		"length": 7.5131233595800335,
+		"name": "(22) 120 mm",
+		"completeness": "11.59 %",
+		"id": 632561,
+		"cost_so_far": "3970.95"
+	}, {
+		"area": 63.629026563610388,
+		"volume": 25.050797859689116,
+		"length": 6.840551181102537,
+		"name": "(22) 120 mm",
+		"completeness": "1.82 %",
+		"id": 635444,
+		"cost_so_far": "900.61"
+	}, {
+		"area": 25.643940176769377,
+		"volume": 10.096039439672968,
+		"length": 2.8215223097113054,
+		"name": "(22) 120 mm",
+		"completeness": "0.0 %",
+		"id": 636346,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 111.90569239889953,
+		"volume": 44.057359212167235,
+		"length": 12.437863467222638,
+		"name": "(22) 120 mm",
+		"completeness": "3.26 %",
+		"id": 644151,
+		"cost_so_far": "1050.08"
+	}, {
+		"area": 153.27383043655257,
+		"volume": 90.516041596397557,
+		"length": 16.179790026246934,
+		"name": "(22) 180 mm",
+		"completeness": "10.83 %",
+		"id": 644376,
+		"cost_so_far": "1030.84"
+	}, {
+		"area": 87.85030070059878,
+		"volume": 34.586732559290922,
+		"length": 13.845144356955112,
+		"name": "(22) 120 mm",
+		"completeness": "10.01 %",
+		"id": 645692,
+		"cost_so_far": "3120.25"
+	}, {
+		"area": 69.527132804266273,
+		"volume": 27.372886930813451,
+		"length": 7.5098425196851171,
+		"name": "(22) 120 mm",
+		"completeness": "0.53 %",
+		"id": 645727,
+		"cost_so_far": "550.51"
+	}, {
+		"area": 124.55605689310306,
+		"volume": 40.881059143815492,
+		"length": 12.729231487015284,
+		"name": "(22) 120 mm",
+		"completeness": "42.37 %",
+		"id": 670565,
+		"cost_so_far": "7300.54"
+	}, {
+		"area": 17.309659619318921,
+		"volume": 6.8148266217790949,
+		"length": 1.9685039370078741,
+		"name": "(22) 120 mm",
+		"completeness": "44.5 %",
+		"id": 671736,
+		"cost_so_far": "6710.73"
+	}, {
+		"area": 23.7206446635116,
+		"volume": 9.3388364816975518,
+		"length": 2.6246719160105036,
+		"name": "(22) 120 mm",
+		"completeness": "0.0 %",
+		"id": 671928,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 27.567235690026955,
+		"volume": 10.853242397648458,
+		"length": 2.6246719160104988,
+		"name": "(22) 120 mm",
+		"completeness": "0.0 %",
+		"id": 672022,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 51.940065685687181,
+		"volume": 20.448844758144531,
+		"length": 7.6935695538057871,
+		"name": "(22) 120 mm",
+		"completeness": "14.47 %",
+		"id": 674378,
+		"cost_so_far": "2210.47"
+	}, {
+		"area": 102.80595906791328,
+		"volume": 40.474787034611388,
+		"length": 11.309650172486164,
+		"name": "(22) 120 mm",
+		"completeness": "5.33 %",
+		"id": 674820,
+		"cost_so_far": "1870.64"
+	}, {
+		"area": 80.9497730106565,
+		"volume": 31.86998937427439,
+		"length": 10.859580052493358,
+		"name": "(22) 120 mm",
+		"completeness": "9.07 %",
+		"id": 678726,
+		"cost_so_far": "6010.23"
+	}, {
+		"area": 287.44807489615999,
+		"volume": 416.863830162689,
+		"length": 39.46850393700808,
+		"name": "(21) 480 mm",
+		"completeness": "16.54 %",
+		"id": 681855,
+		"cost_so_far": "220.85"
+	}, {
+		"area": 29.946666554323599,
+		"volume": 47.160104809958455,
+		"length": 5.5118110236228333,
+		"name": "(21) 480 mm",
+		"completeness": "100 %",
+		"id": 684222,
+		"cost_so_far": "10139.11"
+	}, {
+		"area": 49.215397041911466,
+		"volume": 29.064210851522539,
+		"length": 8.2020997375334108,
+		"name": "(22) 180 mm",
+		"completeness": "39.08 %",
+		"id": 684961,
+		"cost_so_far": "3050.74"
+	}, {
+		"area": 404.42164217661764,
+		"volume": 688.43006712151885,
+		"length": 52.299868766404195,
+		"name": "(12) 450mm",
+		"completeness": "97.24 %",
+		"id": 699476,
+		"cost_so_far": "16440.07"
+	}, {
+		"area": 190.77649127520624,
+		"volume": 187.77213708189589,
+		"length": 39.127296587926622,
+		"name": "(12) 300 mm",
+		"completeness": "16.15 %",
+		"id": 699869,
+		"cost_so_far": "1140.5"
+	}, {
+		"area": 104.57354248043134,
+		"volume": 164.68274406367141,
+		"length": 6.2992125984259815,
+		"name": "(21) 480 mm",
+		"completeness": "94.5 %",
+		"id": 700089,
+		"cost_so_far": "10459.04"
+	}, {
+		"area": 401.70913675160671,
+		"volume": 710.86570090354587,
+		"length": 52.742782152230966,
+		"name": "(12) 450mm",
+		"completeness": "22.74 %",
+		"id": 703074,
+		"cost_so_far": "3810.9"
+	}, {
+		"area": 269.26083366055514,
+		"volume": 460.47820888659692,
+		"length": 57.122703412073278,
+		"name": "(12) 450mm",
+		"completeness": "23.15 %",
+		"id": 703450,
+		"cost_so_far": "2600.6"
+	}, {
+		"area": 229.61681340028898,
+		"volume": 150.6672003938904,
+		"length": 33.956692913385268,
+		"name": "(21) 300 mm",
+		"completeness": "21.5 %",
+		"id": 706160,
+		"cost_so_far": "4137.59"
+	}, {
+		"area": 24.295006923347479,
+		"volume": 9.5649633556486116,
+		"length": 4.3307086614173471,
+		"name": "(22) 120 mm",
+		"completeness": "0.0 %",
+		"id": 730638,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 40.134316379740156,
+		"volume": 15.800911960527783,
+		"length": 6.7257217847765318,
+		"name": "(22) 120 mm",
+		"completeness": "0.0 %",
+		"id": 730639,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 96.658065440372397,
+		"volume": 38.054356472587514,
+		"length": 12.762608340350575,
+		"name": "(22) 120 mm",
+		"completeness": "0.0 %",
+		"id": 730649,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 46.971552276438054,
+		"volume": 18.492737116707701,
+		"length": 7.2834645669291351,
+		"name": "(22) 120 mm",
+		"completeness": "1.05 %",
+		"id": 730650,
+		"cost_so_far": "1500.69"
+	}, {
+		"area": 67.315342964019351,
+		"volume": 26.502103529141664,
+		"length": 7.2834645669291369,
+		"name": "(22) 120 mm",
+		"completeness": "0.0 %",
+		"id": 730885,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 27.796722260111345,
+		"volume": 10.943591440988692,
+		"length": 2.8215223097113054,
+		"name": "(22) 120 mm",
+		"completeness": "0.0 %",
+		"id": 731044,
+		"cost_so_far": "0.0"
+	}, {
+		"area": 54.985283581684257,
+		"volume": 32.47162416241197,
+		"length": 8.202099737533409,
+		"name": "(22) 180 mm",
+		"completeness": "54.44 %",
+		"id": 773652,
+		"cost_so_far": "8755.62"
+	}, {
+		"area": 101.2935636982377,
+		"volume": 39.879355786707578,
+		"length": 10.85958005249336,
+		"name": "(22) 120 mm",
+		"completeness": "20.03 %",
+		"id": 806703,
+		"cost_so_far": "3208.27"
+	}]
+}

@@ -1,0 +1,36 @@
+body { margin: 0; }
+canvas { width: 100%; height: 100% }
+#info {
+    position: absolute;
+    top: 10px;
+    width: 100%;
+    text-align: center;
+    z-index: 100;
+    display:block;
+    color: gray;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    cursor: move;
+}
+
+.price {
+    color: grey;
+    font-size: 22px;
+}
+
+.card button:hover {
+    opacity: 0.7;
+}
+
+#mydivheader {
+    padding: 10px;
+    z-index: 10;
+    background-color: #008fa8;
+    color: #fff;
+}
