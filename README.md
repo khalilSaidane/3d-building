@@ -11,10 +11,10 @@ The scene is a building in progress using ***Threejs*** that you can **navigate*
 You can download the repository and run.
 
 ```
- php -S 127.0.0.1:8080
+$ php -S 127.0.0.1:8080
 ```
 also you can use this ***docker*** command
 
 ```
- docker run -p 80:80 --name 3dbuilding  khalilsaidane/buildcode
+$ docker run -p 80:80 --name 3dbuilding  khalilsaidane/buildcode
 ```
