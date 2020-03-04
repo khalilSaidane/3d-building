@@ -4,7 +4,7 @@ A scene with a building in progress.
 
 ## Description
  
-The scene is a building in progress using ***Threejs*** that you can **navigate**  through, every element of the building is **highlighted** when hovered over and you can **see its information** if you click on it, the information is desplayed in a card that you can **drag**  or **reduce**.
+The scene is a building in progress using ***Threejs*** that you can **navigate**  through, every element of the building is **highlighted** when hovered over and you can **see its information** if you click on it, the information is desplayed in a card that you can **drag** and **reduce**.
 
 ### How to run
 
